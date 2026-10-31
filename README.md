@@ -1,7 +1,9 @@
-<h1 align="center">Hey there! 👋, I'm Meteb Alghamdi</h1>
+<h1 align="center">What's up? I'm Meteb Alghamdi</h1>
 <h3 align="center">I'm an undergraduate SWE from Umm Al Qura University</h3>
 
 - 🔭 I’m currently working on **Assembly Fibonacci counter**
+
+- 🌟 Aspiring Devops engineer
 
 - 📖Bachelor's degree **Currently Enrolled, first year.**
 
